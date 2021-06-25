@@ -18,7 +18,7 @@ Based on: https://github.com/vinhloc1996/DecryptPluralSightVideos
 
 # In This Version:
 + Fix video can't play with POP version 1.0.291
-+ Switch to use the original file. If in the future, POP change the Encrypt Algorithm, you can replace the `Pluralsight.Domain.dll` existing in this program with the latest file from POP, and maybe it works without any fixing
++ Switch to use the original file. If in the future, POP change the Encrypt Algorithm, you can replace the `ExtLibrary.dll` existing in this program with the latest `Pluralsight.Domain.dll` file from POP (just don't foget rename file =]]), and maybe it works without any fixing
 
 # Added Feature:
 + Add GUI
