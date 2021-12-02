@@ -59,7 +59,7 @@ Based on: https://github.com/vinhloc1996/DecryptPluralSightVideos
 - sitiom
 
 # Version
-- This current version is `2.0.0`.
+- This current version is `2.0.1`.
 
 # Reference
 - This tool has been made by myself but some functions about running command-line tools or style of code that I refer from [Lynda-Decryptor](https://github.com/h4ck-rOOt/Lynda-Decryptor).
