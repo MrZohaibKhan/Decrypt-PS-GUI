@@ -5,6 +5,11 @@ This tool is made to decrypt the videos (.psv), decrypt module folder names, rea
 Based on: https://github.com/vinhloc1996/DecryptPluralSightVideos
 
 # Change log:
+
+* Version 2.0.1
+    + Update to work with the latest POP version (1.0.320.0)
+    + Remove the tool. Not work anymore.
+
 * Version 2.0.0
     + Refactor Code
     + Uncheck the Delete checkbox by default
@@ -15,10 +20,6 @@ Based on: https://github.com/vinhloc1996/DecryptPluralSightVideos
 
 * Version 1.9.1
     + Fix Module and clip index wrong format.
-
-# In This Version:
-+ Fix video can't play with POP version 1.0.291
-+ Switch to use the original file. If in the future, POP change the Encrypt Algorithm, you can replace the `ExtLibrary.dll` existing in this program with the latest `Pluralsight.Domain.dll` file from POP (just don't foget rename file =]]), and maybe it works without any fixing
 
 # Added Feature:
 + Add GUI
