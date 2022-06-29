@@ -1,4 +1,0 @@
-2021-12-02 22:15:22.1916|DEBUG|DecryptPluralSightVideosGUI.frmMain|FolderList1: 1
-2021-12-02 22:15:22.2130|DEBUG|DecryptPluralSightVideosGUI.frmMain|FolderList2: 1
-2021-12-02 22:15:22.2346|DEBUG|DecryptPluralSightVideosGUI.frmMain|listCourse1: 1
-2021-12-02 22:15:22.2346|DEBUG|DecryptPluralSightVideosGUI.frmMain|listCourse2: 1

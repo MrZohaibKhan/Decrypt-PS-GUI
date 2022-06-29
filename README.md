@@ -6,6 +6,9 @@ Based on: https://github.com/vinhloc1996/DecryptPluralSightVideos
 
 # Change log:
 
+* Version 2.0.2
+    + Update to work with the latest POP version (1.0.329.0)
+
 * Version 2.0.1
     + Update to work with the latest POP version (1.0.320.0)
     + Remove the tool. Not work anymore.
